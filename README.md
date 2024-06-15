@@ -23,3 +23,5 @@ python3 TTReport.py
 
 
 I remember to everyone that i am not responsible for anything.
+
+For any questions or issues contact me on intagram: mrmon0 or discord: gagetiara
