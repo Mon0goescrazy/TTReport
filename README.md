@@ -5,6 +5,8 @@ For this script you will need the Report URL.
 To get it go and watch the tutorial on my YT
 https://www.youtube.com/watch?v=AF4yvGVzXr4
 
+I also reccomend to use a vpn cause its possible that you will get IP banned
+
 Quick note: this isnt gonna 100% ban the victim, it just increase the probability.
 
 To install this:
