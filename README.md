@@ -1,6 +1,10 @@
 # TTReport
 A python script made to massreport a profile/video on TikTok.
 
+Preview:
+![Cover Image](IMG_20240615_180501.jpg)
+
+
 For this script you will need the Report URL. 
 To get it go and watch the tutorial on my YT
 https://www.youtube.com/watch?v=AF4yvGVzXr4
